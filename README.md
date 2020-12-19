@@ -1,4 +1,4 @@
-![alt text](https://github.com/Tylerholland12/CeylonChatbot/blob/main/chat.png?raw=true)
+![alt text](https://github.com/Tylerholland12/chat-bot/blob/main/chat.png?raw=true)
 
 ## Required Packages
 - `npm i express ibm-watson dotenv`
