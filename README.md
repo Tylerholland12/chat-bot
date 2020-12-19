@@ -10,10 +10,10 @@ Chat-Bot
   </a>
 </p>
 <br>
-<center>
+<p align="center">
 
 ![alt text](https://github.com/Tylerholland12/chat-bot/blob/main/chat.png?raw=true)
-</center>
+</p>
 
 ## Required Packages
 - `npm i express ibm-watson dotenv`
