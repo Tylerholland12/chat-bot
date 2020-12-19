@@ -1,3 +1,16 @@
+<p align="center">
+Chat-Bot
+<br>
+<br>
+
+</p>
+<p align="center">
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
+<br>
+
 ![alt text](https://github.com/Tylerholland12/chat-bot/blob/main/chat.png?raw=true)
 
 ## Required Packages
