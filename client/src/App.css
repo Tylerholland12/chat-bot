@@ -1,9 +1,9 @@
-/* .container{
+.container{
   text-align: center;
 }
 input{
   border: 0;
-  border-bottom: 1px solid black;   
+  border-bottom: 1px solid #00ad8e;;   
   height: 20px;
   width: 400px;
   outline: none;
@@ -11,6 +11,7 @@ input{
   font-size: 20px;
   margin-top: 20px;
 }
+
 .bot{
   background-color: rgb(152, 85, 212);
   color: white;
@@ -45,4 +46,5 @@ input{
 }
 h1{
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-} */
+  color: #00ad8e;
+}

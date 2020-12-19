@@ -29,7 +29,7 @@ const Chat = ({ chat, userMessage, sendMessage }) => {
   return (
     <center>
     <div className="chat">
-      <h1>Ceylon Chatbot</h1>
+      <h1>Tyler's Chatbot</h1>
       {/* Handle Messages */}
       <div class="historyContainer">
         {chat.length === 0
