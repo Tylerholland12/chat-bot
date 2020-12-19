@@ -11,6 +11,7 @@ Chat-Bot
 </p>
 <br>
 <center>
+
 ![alt text](https://github.com/Tylerholland12/chat-bot/blob/main/chat.png?raw=true)
 </center>
 
